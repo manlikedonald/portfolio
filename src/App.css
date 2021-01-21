@@ -1,0 +1,23 @@
+*{
+  background-color: #000;
+  color: #fff;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+}
+
+
+a{
+  color: #fff;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #7511F6;
+}
+
+.AboutText:hover{
+  color: #7511F6;
+}
